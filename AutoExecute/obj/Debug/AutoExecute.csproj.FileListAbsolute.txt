@@ -1,0 +1,12 @@
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\bin\Debug\AutoExecute.exe.config
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\bin\Debug\AutoExecute.exe
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\bin\Debug\AutoExecute.pdb
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\obj\Debug\AutoExecute.Form1.resources
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\obj\Debug\AutoExecute.Properties.Resources.resources
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\obj\Debug\AutoExecute.csproj.GenerateResource.Cache
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\obj\Debug\AutoExecute.exe
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\obj\Debug\AutoExecute.pdb
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\bin\Debug\Newtonsoft.Json.dll
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\bin\Debug\Newtonsoft.Json.xml
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\bin\Debug\config.json
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\AutoExecute\bin\Debug\event.json

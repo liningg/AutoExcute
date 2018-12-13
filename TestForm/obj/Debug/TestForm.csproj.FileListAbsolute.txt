@@ -1,0 +1,9 @@
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\bin\Debug\TestForm.exe.config
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\bin\Debug\TestForm.exe
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\bin\Debug\TestForm.pdb
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\obj\Debug\TestForm.Form1.resources
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\obj\Debug\TestForm.exe
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\obj\Debug\TestForm.pdb
+c:\users\aiqi\documents\visual studio 2015\Projects\AutoExecute\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
